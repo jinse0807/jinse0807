@@ -2,6 +2,14 @@
 
 ## Hello My name is jinse 👋
 
+<div align="center">
+
+### JINSE0807의 GitHub 프로필
+
+FiveM 및 GarryMods에서 활동중인 개발자입니다 ❄️
+
+</div>
+
 ### 기술 스택 | Tech Stack
 
 ##### 백엔드 & 데이터베이스 | Backend & Database 
