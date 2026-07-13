@@ -1,9 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=jinse0807%20GitHub%20👋&fontSize=50&fontColor=ffffff)
 
-## Hello My name is jinse 👋
+<h2 align="center">Hello My name is jinse 👋</h2>
 
 <div align="center">
-### JINSE0807의 GitHub 프로필
+
+<h3>JINSE0807의 GitHub 프로필</h3>
 
 FiveM 및 GarryMods에서 활동중인 개발자입니다 ❄️
 
