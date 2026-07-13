@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=r0k1yy%20GitHub%20👋&fontSize=50&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=jinse0807%20GitHub%20👋&fontSize=50&fontColor=ffffff)
 
 ## Hello My name is jinse 👋
 
