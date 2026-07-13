@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=jinse0807%20GitHub%20👋&fontSize=50&fontColor=ffffff)
 
+<div align="center">
 ## Hello My name is jinse 👋
+</div>
 
 <div align="center">
 
