@@ -2,9 +2,6 @@
 
 <div align="center">
 ## Hello My name is jinse 👋
-</div>
-
-<div align="center">
 
 ### JINSE0807의 GitHub 프로필
 
