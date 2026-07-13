@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=r0k1yy%20GitHub%20👋&fontSize=50&fontColor=ffffff)
+
 ## Hello My name is jinse 👋
 
 ### 기술 스택 | Tech Stack
